@@ -7,9 +7,9 @@ Repositório para a disciplina de Linguagem de Programação 3 (LP3A5). Nele ser
 
 # Projetos do Portifolio 
 - Problema Produtor Consumidor
-- Streams 
+- [Streams](https://github.com/viniciusarashiro/LP3A5/tree/main/Streams) 
 - Exceptions
-- Reflection
+- [Reflection](https://github.com/viniciusarashiro/LP3A5/tree/main/Reflection)
 
 # Caderno de Campo
 
