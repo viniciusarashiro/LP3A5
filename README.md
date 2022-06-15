@@ -6,9 +6,9 @@ Repositório para a disciplina de Linguagem de Programação 3 (LP3A5). Nele ser
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # Projetos do Portifolio 
-- Problema Produtor Consumidor
+- [Problema Produtor Consumidor](https://github.com/viniciusarashiro/LP3A5/tree/main/ProdutorConsumidor) 
 - [Streams](https://github.com/viniciusarashiro/LP3A5/tree/main/Streams) 
-- Exceptions
+- [Optional](https://github.com/viniciusarashiro/LP3A5/tree/main/Optional)) 
 - [Reflection](https://github.com/viniciusarashiro/LP3A5/tree/main/Reflection)
 
 # Caderno de Campo
